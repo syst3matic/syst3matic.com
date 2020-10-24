@@ -2,3 +2,14 @@ baseURL = "https://syst3matic.org"
 languageCode = "en-us"
 title = "Syst3matic"
 theme = "hugo-kiera"
+
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+
+[params]
+    tagline = "Syst3matic.com blog"
