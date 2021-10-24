@@ -1,6 +1,6 @@
-baseURL = "https://syst3matic.org"
+baseURL = "https://syst3matic.com"
 languageCode = "en-us"
-title = "Syst3matic"
+title = "syst3matic | blog"
 theme = [ "hugo-chart", "hugo-kiera" ]
 
 
